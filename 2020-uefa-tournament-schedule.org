@@ -1,0 +1,194 @@
+#+TITLE: Schedule for the UEFA Euro 2020
+#+TAGS: EURO2020
+#+CATEGORY: EURO2020
+
+* Info
+** Schedule from [[https://en.wikipedia.org/wiki/UEFA_Euro_2020]]
+** Inspiration and code from [[https://github.com/djcb/org-euro2012/][djcb's EURO2012]] and [[https://github.com/ruediger/org-world-cup2014][ruediger's 2014 World cup]] schedules.
+** All times are [[https://en.wikipedia.org/wiki/Central_European_Summer_Time][CEST]] ([[https://en.wikipedia.org/wiki/UTC%252B02:00][UTC+2]]), as listed by UEFA.
+
+Use the following function to change the timezone.  Set =n= to 1 hour for
+[[https://fi.wikipedia.org/wiki/UTC%252B3][UTC+3]].  Move to code block and use =C-c C-c= to eval it.
+
+#+HEADERS: :var n=1
+#+begin_src emacs-lisp :results silent
+  (save-excursion
+    (goto-char (point-min))
+    (while (re-search-forward "[[<]" nil t)
+      (when (org-at-timestamp-p t)
+        (org-timestamp-change n 'hour))))
+#+end_src
+
+* Schedule for the UEFA EURO 2020
+** Group A                                                           :GroupA:
+*** Turkey - Italy
+<2021-06-11 Fri 21:00>
+Stadio Olimpico, Rome
+*** Wales - Switzerland
+<2021-06-12 Sat 15:00>
+Olympic Stadium, Baku
+*** Turkey - Wales
+<2021-06-16 Sat 18:00>
+Olympic Stadium, Baku
+*** Italy - Switzerland
+<2021-06-16 Wed 21:00>
+Stadio Olimpico, Rome
+*** Switzerland - Turkey
+<2021-06-20 Sun 18:00>
+Olympic Stadium, Baku
+*** Italy - Wales
+<2021-06-20 Sun 18:00>
+Stadio Olimpico, Rome
+
+** Group B                                                           :GroupB:
+*** Denmark - Finland
+<2021-06-12 Sat 18:00>
+Parken Stadium, Copenhagen
+*** Belgium - Russia
+<2021-06-12 Sat 21:00>
+Krestovsky Stadium, Saint Petersburg
+*** Finland - Russia
+<2021-06-16 Wed 15:00>
+Krestovsky Stadium, Saint Petersburg
+*** Denmark - Belgium
+<2021-06-17 Thu 18:00>
+Parken Stadium, Copenhagen
+*** Russia - Denmark
+<2021-06-21 Mon 21:00>
+Parken Stadium, Copenhagen
+*** Finland - Belgium
+<2021-06-21 Mon 21:00>
+Krestovsky Stadium, Saint Petersburg
+
+** Group C                                                           :GroupC:
+*** Austria - North Macedonia
+<2021-06-13 Sun 18:00>
+Arena Națională, Bucharest
+*** Netherlands - Ukraine
+<2021-06-13 Sun 21:00>
+Johan Cruyff Arena, Amsterdam
+*** Ukraine - North Macedonia
+<2021-06-17 Thu 15:00>
+Arena Națională, Bucharest
+*** Netherlands - Austria
+<2021-06-17 Thu 21:00>
+Johan Cruyff Arena, Amsterdam
+*** North Macedonia - Netherlands
+<2021-06-21 Mon 18:00>
+Johan Cruyff Arena, Amsterdam
+*** Ukraine - Austria
+<2021-06-21 Mon 18:00>
+Arena Națională, Bucharest
+
+** Group D                                                           :GroupD:
+*** England - Croatia
+<2021-06-13 Sun 15:00>
+Wembley Stadium, London
+*** Scotland - Czech Republic
+<2021-06-14 Mon 15:00>
+Hampden Park, Glasgow
+*** Croatia - Czech Republic
+<2021-06-18 Fri 18:00>
+Hampden Park, Glasgow
+*** England - Scotland
+<2021-06-18 Fri 21:00>
+Wembley Stadium, London
+*** Croatia - Scotland
+<2021-06-22 Tue 21:00>
+Hampden Park, Glasgow
+*** Czech Republic - England
+<2021-06-22 Tue 21:00>
+Wembley Stadium, London
+
+** Group E                                                           :GroupE:
+*** Poland - Slovakia
+<2021-06-14 Mon 18:00>
+Krestovsky Stadium, Saint Petersburg
+*** Spain - Sweden
+<2021-06-14 Mon 21:00>
+La Cartuja, Seville
+*** Sweden - Slovakia
+<2021-06-18 Fri 15:00>
+Krestovsky Stadium, Saint Petersburg
+*** Spain - Poland
+<2021-06-19 Sat 21:00>
+La Cartuja, Seville
+*** Slovakia - Spain
+<2021-06-23 Wed 18:00>
+La Cartuja, Seville
+*** Sweden - Poland
+<2021-06-23 Wed 18:00>
+Krestovsky Stadium, Saint Petersburg
+
+** Group F                                                           :GroupF:
+*** Hungary - Portugal
+<2021-06-15 Tue 18:00>
+Puskás Aréna, Budapest
+*** France - Germany
+<2021-06-15 Tue 21:00>
+Allianz Arena, Munich
+*** Hungary - France
+<2021-06-19 Sat 15:00>
+Puskás Aréna, Budapest
+*** Portugal - Germany
+<2021-06-19 Sat 18:00>
+Allianz Arena, Munich
+*** Portugal - France
+<2021-06-23 Wed 21:00>
+Puskás Aréna, Budapest
+*** Germany - Hungary
+<2021-06-23 Wed 21:00>
+Allianz Arena, Munich
+
+** Round of 16                                                    :RoundOf16:
+*** 1A - 2C                                                         :Match37:
+<2021-06-26 Sat 21:00>
+Wembley Stadium, London
+*** 2A - 2B                                                         :Match38:
+<2021-06-26 Sat 18:00>
+Johan Cruyff Arena, Amsterdam
+*** 1B - 3A/D/E/F                                                   :Match39:
+<2021-06-27 Sun 21:00>
+La Cartuja, Seville
+*** 1C - 3D/E/F                                                     :Match40:
+<2021-06-27 Sun 18:00>
+Puskás Aréna, Budapest
+*** 1F - 3A/B/C                                                     :Match41:
+<2021-06-28 Mon 21:00>
+Arena Națională, Bucharest
+*** 2D - 2E                                                         :Match42:
+<2021-06-28 Mon 18:00>
+Parken Stadium, Copenhagen
+*** 1E - 3A/B/C/D                                                   :Match43:
+<2021-06-29 Tue 21:00>
+Hampden Park, Glasgow
+*** 1D - 2F                                                         :Match44:
+<2021-06-29 Tue 18:00>
+Wembley Stadium, London
+
+** Quarter finals                                                  :QtFinals:
+*** W41 - W42                                                       :Match45:
+<2021-07-02 Fri 18:00>
+Krestovsky Stadium, Saint Petersburg
+*** W39 - W37                                                       :Match46:
+<2021-07-02 Fri 21:00>
+Allianz Arena, Munich
+*** W40 - W38                                                       :Match47:
+<2021-07-03 Sat 18:00>
+Olympic Stadium, Baku
+*** W43 - W44                                                       :Match48:
+<2021-07-03 Sat 21:00>
+Stadio Olimpico, Rome
+
+** Semi-finals                                                   :SemiFinals:
+*** W46 - W45                                                       :Match49:
+<2021-07-06 Tue 21:00>
+Wembley Stadium, London
+*** W48 - W47                                                       :Match50:
+<2021-07-07 Wed 21:00>
+Wembley Stadium, London
+
+** Final                                                              :Final:
+*** W49 - W50
+<2021-07-11 Sun 21:00>
+Wembley Stadium, London
