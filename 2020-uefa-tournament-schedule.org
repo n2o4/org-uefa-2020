@@ -21,9 +21,14 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 
 * Schedule for the UEFA EURO 2020
 ** Group A                                                           :GroupA:
-*** Turkey - Italy
+*** Turkey - Italy 0-3
 <2021-06-11 Fri 21:00>
 Stadio Olimpico, Rome
+
+53' Merih Demiral (OG)
+66' Ciro Immobile
+79' Lorenzo Insigne
+
 *** Wales - Switzerland
 <2021-06-12 Sat 15:00>
 Olympic Stadium, Baku
