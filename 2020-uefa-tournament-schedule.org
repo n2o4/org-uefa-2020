@@ -25,13 +25,17 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 <2021-06-11 Fri 21:00>
 Stadio Olimpico, Rome
 
-53' Merih Demiral (OG)
-66' Ciro Immobile
-79' Lorenzo Insigne
+53' 0-1 Merih Demiral (OG)
+66' 0-2 Ciro Immobile
+79' 0-3 Lorenzo Insigne
 
-*** Wales - Switzerland
+*** Wales - Switzerland 1-1
 <2021-06-12 Sat 15:00>
 Olympic Stadium, Baku
+
+49' 0-1 Breel Embolo
+74' 1-1 Kieffer Moore
+
 *** Turkey - Wales
 <2021-06-16 Sat 18:00>
 Olympic Stadium, Baku
