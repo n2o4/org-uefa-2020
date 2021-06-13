@@ -78,12 +78,25 @@ Parken Stadium, Copenhagen
 Krestovsky Stadium, Saint Petersburg
 
 ** Group C                                                           :GroupC:
-*** Austria - North Macedonia
+*** Austria - North Macedonia 3-1
 <2021-06-13 Sun 18:00>
 Arena Națională, Bucharest
-*** Netherlands - Ukraine
+
+18' 1-0 Stefan Lainer
+28' 1-1 Goran Pandev
+78' 2-1 Michael Gregoritsch
+89' 3-1 Marko Arnautović
+
+*** Netherlands - Ukraine 3-2
 <2021-06-13 Sun 21:00>
 Johan Cruyff Arena, Amsterdam
+
+52' 1-0 Georginio Wijnaldum
+58' 2-0 Wout Weghorst
+75' 2-1 Andri Jarmolenko
+79' 2-2 Roman Jaremtšuk
+85' 3-2 Denzel Dumfries
+
 *** Ukraine - North Macedonia
 <2021-06-17 Thu 15:00>
 Arena Națională, Bucharest
@@ -98,9 +111,12 @@ Johan Cruyff Arena, Amsterdam
 Arena Națională, Bucharest
 
 ** Group D                                                           :GroupD:
-*** England - Croatia
+*** England - Croatia 1-0
 <2021-06-13 Sun 15:00>
 Wembley Stadium, London
+
+1-0 57' Raheem Sterling
+
 *** Scotland - Czech Republic
 <2021-06-14 Mon 15:00>
 Hampden Park, Glasgow
