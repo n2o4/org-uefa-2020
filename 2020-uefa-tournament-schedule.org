@@ -138,9 +138,15 @@ Hampden Park, Glasgow
 Wembley Stadium, London
 
 ** Group E                                                           :GroupE:
-*** Poland - Slovakia
+*** Poland - Slovakia 1-2
 <2021-06-14 Mon 18:00>
 Krestovsky Stadium, Saint Petersburg
+
+18' 0-1 Wojciech Szczęsny (OG)
+46' 1-1 Karol Linetty
+62' Grzegorz Krychowiak (Red card)
+69' 1-2 Milan Škriniar
+
 *** Spain - Sweden
 <2021-06-14 Mon 21:00>
 La Cartuja, Seville
