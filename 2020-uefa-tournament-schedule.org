@@ -51,12 +51,20 @@ Stadio Olimpico, Rome
 52' 2-0 Manuel Locatelli
 89' 3-0 Ciro Immobile
 
-*** Switzerland - Turkey
+*** Switzerland - Turkey 3-1
 <2021-06-20 Sun 18:00>
 Olympic Stadium, Baku
-*** Italy - Wales
+
+6' 1-0 Haris Seferovic
+26' 2-0 Xherdan Shaqiri
+62' 2-1 Irfan Kahveci
+68' 3-1 Xherdan Shaqiri
+
+*** Italy - Wales 1-0
 <2021-06-20 Sun 18:00>
 Stadio Olimpico, Rome
+
+39' 1-0 Matteo Pessina
 
 ** Group B                                                           :GroupB:
 *** Denmark - Finland 0-1
