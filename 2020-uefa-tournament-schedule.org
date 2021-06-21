@@ -269,10 +269,10 @@ Allianz Arena, Munich
 *** Italy - Austria                                                 :Match37:
 <2021-06-26 Sat 21:00>
 Wembley Stadium, London
-*** Wales - 2B                                                      :Match38:
+*** Wales - Denmark                                                 :Match38:
 <2021-06-26 Sat 18:00>
 Johan Cruyff Arena, Amsterdam
-*** 1B - 3A/D/E/F                                                   :Match39:
+*** Belgium - 3A/D/E/F                                              :Match39:
 <2021-06-27 Sun 21:00>
 La Cartuja, Seville
 *** Netherlands - 3D/E/F                                            :Match40:
