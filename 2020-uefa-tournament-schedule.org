@@ -95,12 +95,22 @@ Parken Stadium, Copenhagen
 54' 1-1 Thorgan Hazard
 70' 1-2 Kevin De Bruyne
 
-*** Russia - Denmark
+*** Russia - Denmark 1-4
 <2021-06-21 Mon 21:00>
 Parken Stadium, Copenhagen
-*** Finland - Belgium
+
+38' 0-1 Mikkel Damsgaard
+59' 0-2 Yussuf Poulsen
+70' 1-2 Artjom Dzjuba (Penalty)
+79' 1-3 Andreas Christensen
+82' 1-4 Joakim Mæhle
+
+*** Finland - Belgium 0-2
 <2021-06-21 Mon 21:00>
 Krestovsky Stadium, Saint Petersburg
+
+74' 0-1 Lukas Hradecký (OG)
+81' 0-2 Romelu Lukaku
 
 ** Group C                                                           :GroupC:
 *** Austria - North Macedonia 3-1
