@@ -256,7 +256,7 @@ Puskás Aréna, Budapest
 Allianz Arena, Munich
 
 ** Round of 16                                                    :RoundOf16:
-*** Italy - 2C                                                      :Match37:
+*** Italy - Austria                                                 :Match37:
 <2021-06-26 Sat 21:00>
 Wembley Stadium, London
 *** Wales - 2B                                                      :Match38:
