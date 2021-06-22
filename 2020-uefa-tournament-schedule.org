@@ -289,13 +289,13 @@ Puskás Aréna, Budapest
 *** 1F - 3A/B/C                                                     :Match41:
 <2021-06-28 Mon 21:00>
 Arena Națională, Bucharest
-*** 2D - 2E                                                         :Match42:
+*** Croatia - 2E                                                    :Match42:
 <2021-06-28 Mon 18:00>
 Parken Stadium, Copenhagen
 *** 1E - 3A/B/C/D                                                   :Match43:
 <2021-06-29 Tue 21:00>
 Hampden Park, Glasgow
-*** 1D - 2F                                                         :Match44:
+*** England - 2F                                                    :Match44:
 <2021-06-29 Tue 18:00>
 Wembley Stadium, London
 
