@@ -185,12 +185,20 @@ Hampden Park, Glasgow
 *** England - Scotland 0-0
 <2021-06-18 Fri 21:00>
 Wembley Stadium, London
-*** Croatia - Scotland
+*** Croatia - Scotland 3-1
 <2021-06-22 Tue 21:00>
 Hampden Park, Glasgow
-*** Czech Republic - England
+
+17' 1-0 Nikola Vlašić
+42' 1-1 Callum McGregor
+62' 2-1 Luka Modrić
+76' 3-1 Ivan Perišić
+
+*** Czech Republic - England 0-1
 <2021-06-22 Tue 21:00>
 Wembley Stadium, London
+
+12' 0-1 Raheem Sterling
 
 ** Group E                                                           :GroupE:
 *** Poland - Slovakia 1-2
