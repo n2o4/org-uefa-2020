@@ -296,16 +296,16 @@ Johan Cruyff Arena, Amsterdam
 *** Belgium - 3A/D/E/F                                              :Match39:
 <2021-06-27 Sun 21:00>
 La Cartuja, Seville
-*** Netherlands - 3D/E/F                                            :Match40:
+*** Netherlands - Czech Republic                                    :Match40:
 <2021-06-27 Sun 18:00>
 Puskás Aréna, Budapest
 *** 1F - 3A/B/C                                                     :Match41:
 <2021-06-28 Mon 21:00>
 Arena Națională, Bucharest
-*** Croatia - 2E                                                    :Match42:
+*** Croatia - Spain                                                 :Match42:
 <2021-06-28 Mon 18:00>
 Parken Stadium, Copenhagen
-*** 1E - 3A/B/C/D                                                   :Match43:
+*** Sweden - 3A/B/C/D                                               :Match43:
 <2021-06-29 Tue 21:00>
 Hampden Park, Glasgow
 *** England - 2F                                                    :Match44:
