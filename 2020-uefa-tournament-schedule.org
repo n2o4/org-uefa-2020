@@ -279,12 +279,23 @@ Allianz Arena, Munich
 60' 1-4 Robin Gosens
 67' 2-4 Diogo Jota
 
-*** Portugal - France
+*** Portugal - France 2-2
 <2021-06-23 Wed 21:00>
 Puskás Aréna, Budapest
-*** Germany - Hungary
+
+30' 1-0 Cristiano Ronaldo (Penalty)
+45+2' 1-1 Karim Benzema (Penalty)
+47' 1-2 Karim Benzema
+60' 2-2 Cristiano Ronaldo (Penalty)
+
+*** Germany - Hungary 2-2
 <2021-06-23 Wed 21:00>
 Allianz Arena, Munich
+
+11' 0-1 Ádám Szalai
+66' 1-1 Kai Havertz
+68' 1-2 András Schäfer
+84' 2-2 Leon Goretzka
 
 ** Round of 16                                                    :RoundOf16:
 *** Italy - Austria                                                 :Match37:
