@@ -226,12 +226,25 @@ La Cartuja, Seville
 25' 1-0 Álvaro Morata
 54' 1-1 Robert Lewandowski
 
-*** Slovakia - Spain
+*** Slovakia - Spain 0-5
 <2021-06-23 Wed 18:00>
 La Cartuja, Seville
-*** Sweden - Poland
+
+30' 0-1 Martin Dúbravka (OG)
+45+3' 0-2 Aymeric Laporte
+56' 0-3 Pablo Sarabia
+67' 0-4 Ferran Torres
+71' 0-5 Juraj Kucka (OG)
+
+*** Sweden - Poland 3-2
 <2021-06-23 Wed 18:00>
 Krestovsky Stadium, Saint Petersburg
+
+2' 1-0 Emil Forsberg
+59' 2-0 Emil Forsberg
+61' 2-1 Robert Lewandowski
+84' 2-2 Robert Lewandowski
+90+3' 3-2 Viktor Claesson
 
 ** Group F                                                           :GroupF:
 *** Hungary - Portugal 0-3
