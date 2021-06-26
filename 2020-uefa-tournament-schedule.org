@@ -298,12 +298,23 @@ Allianz Arena, Munich
 84' 2-2 Leon Goretzka
 
 ** Round of 16                                                    :RoundOf16:
-*** Italy - Austria                                                 :Match37:
+*** Italy - Austria 2-1                                             :Match37:
 <2021-06-26 Sat 21:00>
 Wembley Stadium, London
-*** Wales - Denmark                                                 :Match38:
+
+95' 1-0 Federico Chiesa
+105' 2-0 Matteo Pessina
+114' 2-1 Saša Kalajdžić
+
+*** Wales - Denmark 0-4                                             :Match38:
 <2021-06-26 Sat 18:00>
 Johan Cruyff Arena, Amsterdam
+
+27' 0-1 Kasper Dolberg
+48' 0-2 Kasper Dolberg
+88' 0-3 Joakim Mæhle
+90+4' 0-4 Martin Braithwaite
+
 *** Belgium - Portugal                                              :Match39:
 <2021-06-27 Sun 21:00>
 La Cartuja, Seville
