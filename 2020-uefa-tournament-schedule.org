@@ -315,12 +315,20 @@ Johan Cruyff Arena, Amsterdam
 88' 0-3 Joakim Mæhle
 90+4' 0-4 Martin Braithwaite
 
-*** Belgium - Portugal                                              :Match39:
+*** Belgium - Portugal 1-0                                          :Match39:
 <2021-06-27 Sun 21:00>
 La Cartuja, Seville
-*** Netherlands - Czech Republic                                    :Match40:
+
+42' 1-0 Thorgan Hazard
+
+*** Netherlands - Czech Republic 0-2                                :Match40:
 <2021-06-27 Sun 18:00>
 Puskás Aréna, Budapest
+
+55' Matthijs de Ligt (Red card)
+68' 0-1 Tomáš Holeš
+80' 0-2 Patrik Schick
+
 *** France - Switzerland                                            :Match41:
 <2021-06-28 Mon 21:00>
 Arena Națională, Bucharest
