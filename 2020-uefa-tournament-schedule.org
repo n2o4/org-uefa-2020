@@ -346,10 +346,10 @@ Wembley Stadium, London
 *** W41 - W42                                                       :Match45:
 <2021-07-02 Fri 18:00>
 Krestovsky Stadium, Saint Petersburg
-*** W39 - Italy                                                     :Match46:
+*** Belgium - Italy                                                 :Match46:
 <2021-07-02 Fri 21:00>
 Allianz Arena, Munich
-*** W40 - Denmark                                                   :Match47:
+*** Czech Republic - Denmark                                        :Match47:
 <2021-07-03 Sat 18:00>
 Olympic Stadium, Baku
 *** W43 - W44                                                       :Match48:
