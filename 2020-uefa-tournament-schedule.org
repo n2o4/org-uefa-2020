@@ -329,12 +329,43 @@ Puskás Aréna, Budapest
 68' 0-1 Tomáš Holeš
 80' 0-2 Patrik Schick
 
-*** France - Switzerland                                            :Match41:
+*** France - Switzerland 3-3 (4-5)                                  :Match41:
 <2021-06-28 Mon 21:00>
 Arena Națională, Bucharest
-*** Croatia - Spain                                                 :Match42:
+
+15' 0-1 Haris Seferović
+57' 1-1 Karim Benzema
+59' 2-1 Karim Benzema
+75' 3-1 Paul Pogba
+81' 3-2 Haris Seferović
+90' 3-3 Mario Gavranović
+
+Penalty shoot-out:
+
+0-1 Mario Gavranović
+1-1 Paul Pogba
+1-2 Fabian Schär
+2-2 Olivier Giroud
+2-3 Manuel Akanji
+3-3 Marcus Thuram
+3-4 Rubén Vargas
+4-4 Presnel Kimpembe
+4-5 Admir Mehmedi
+4-5 Kylian Mbappé
+
+*** Croatia - Spain 3-5                                             :Match42:
 <2021-06-28 Mon 18:00>
 Parken Stadium, Copenhagen
+
+20' 1-0 Pedri (OG)
+38' 1-1 Pablo Sarabia
+57' 1-2 César Azpilicueta
+76' 1-3 Ferran Torres
+85' 2-3 Mislav Oršić
+90+2' 3-3 Mario Pašalić
+100' 3-4 Álvaro Morata
+103' 3-5 Mikel Oyarzabal
+
 *** Sweden - Ukraine                                                :Match43:
 <2021-06-29 Tue 21:00>
 Hampden Park, Glasgow
