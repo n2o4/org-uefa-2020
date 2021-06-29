@@ -366,12 +366,21 @@ Parken Stadium, Copenhagen
 100' 3-4 Álvaro Morata
 103' 3-5 Mikel Oyarzabal
 
-*** Sweden - Ukraine                                                :Match43:
+*** Sweden - Ukraine 1-2                                            :Match43:
 <2021-06-29 Tue 21:00>
 Hampden Park, Glasgow
-*** England - Germany                                               :Match44:
+
+27' 0-1 Oleksandr Zintšenko
+43' 1-1 Emil Forsberg
+99' Marcus Danielson (Red card)
+120+1' 1-2 Artem Dovbyk
+
+*** England - Germany 2-0                                           :Match44:
 <2021-06-29 Tue 18:00>
 Wembley Stadium, London
+
+75' 1-0 Raheem Sterling
+86' 2-0 Harry Kane
 
 ** Quarter finals                                                  :QtFinals:
 *** Switzerland - Spain                                             :Match45:
