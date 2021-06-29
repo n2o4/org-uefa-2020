@@ -374,7 +374,7 @@ Hampden Park, Glasgow
 Wembley Stadium, London
 
 ** Quarter finals                                                  :QtFinals:
-*** W41 - W42                                                       :Match45:
+*** Switzerland - Spain                                             :Match45:
 <2021-07-02 Fri 18:00>
 Krestovsky Stadium, Saint Petersburg
 *** Belgium - Italy                                                 :Match46:
