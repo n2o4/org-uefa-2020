@@ -383,12 +383,32 @@ Wembley Stadium, London
 86' 2-0 Harry Kane
 
 ** Quarter finals                                                  :QtFinals:
-*** Switzerland - Spain                                             :Match45:
+*** Switzerland - Spain 1-1 (1-3)                                   :Match45:
 <2021-07-02 Fri 18:00>
 Krestovsky Stadium, Saint Petersburg
-*** Belgium - Italy                                                 :Match46:
+
+8' 0-1 Denis Zakaria (OG)
+68' 1-1 Xherdan Shaqiri
+77' Remo Freuler (Red card)
+
+0-0 Sergio Busquets
+1-0 Mario Gavranović
+1-1 Dani Olmo
+1-1 Fabian Schär
+1-1 Rodrigo Hernández
+1-1 Manuel Akanji
+1-2 Gerard Moreno
+1-2 Rubén Vargas
+1-3 Mikel Oyarzabal
+
+*** Belgium - Italy 1-2                                             :Match46:
 <2021-07-02 Fri 21:00>
 Allianz Arena, Munich
+
+31' 0-1 Nicolò Barella
+44' 0-2 Lorenzo Insigne
+45+2' 1-2 Romelu Lukaku (Penalty)
+
 *** Czech Republic - Denmark                                        :Match47:
 <2021-07-03 Sat 18:00>
 Olympic Stadium, Baku
