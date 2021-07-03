@@ -409,12 +409,22 @@ Allianz Arena, Munich
 44' 0-2 Lorenzo Insigne
 45+2' 1-2 Romelu Lukaku (Penalty)
 
-*** Czech Republic - Denmark                                        :Match47:
+*** Czech Republic - Denmark 1-2                                    :Match47:
 <2021-07-03 Sat 18:00>
 Olympic Stadium, Baku
-*** Ukraine - England                                               :Match48:
+
+5' 0-1 Thomas Delaney
+42' 0-2 Kasper Dolberg
+49' 1-2 Patrik Schick
+
+*** Ukraine - England 0-4                                           :Match48:
 <2021-07-03 Sat 21:00>
 Stadio Olimpico, Rome
+
+4' 0-1 Harry Kane
+46' 0-2 Harry Maguire
+50' 0-3 Harry Kane
+63' 0-4 Jordan Henderson
 
 ** Semi-finals                                                   :SemiFinals:
 *** Belgium - Spain                                                 :Match49:
