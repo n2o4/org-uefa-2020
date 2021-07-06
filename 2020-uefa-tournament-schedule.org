@@ -427,9 +427,23 @@ Stadio Olimpico, Rome
 63' 0-4 Jordan Henderson
 
 ** Semi-finals                                                   :SemiFinals:
-*** Belgium - Spain                                                 :Match49:
+*** Italy - Spain 1-1 (4-2)                                         :Match49:
 <2021-07-06 Tue 21:00>
 Wembley Stadium, London
+
+60' 1-0 Federico Chiesa
+80' 1-1 Álvaro Morata
+
+0-0 Manuel Locatelli
+0-0 Dani Olmo
+1-0 Andrea Belotti
+1-1 Gerard Moreno
+2-1 Leonardo Bonucci
+2-2 Thiago Alcântara
+3-2 Federico Bernardeschi
+3-2 Álvaro Morata
+4-2 Jorginho
+
 *** England - Denmark                                               :Match50:
 <2021-07-07 Wed 21:00>
 Wembley Stadium, London
