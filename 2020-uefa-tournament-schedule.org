@@ -444,9 +444,13 @@ Wembley Stadium, London
 3-2 Álvaro Morata
 4-2 Jorginho
 
-*** England - Denmark                                               :Match50:
+*** England - Denmark 2-1                                           :Match50:
 <2021-07-07 Wed 21:00>
 Wembley Stadium, London
+
+30' 0-1 Mikkel Damsgaard
+39' 1-1 Simon Kjær
+104' 2-1 Harry Kane
 
 ** Final                                                              :Final:
 *** Italy - W50
